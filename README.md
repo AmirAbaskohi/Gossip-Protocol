@@ -28,3 +28,23 @@ typedef struct MessageHdr {
 ```
 ![image](https://user-images.githubusercontent.com/50926437/128828262-d20d9f93-eee0-49e3-9010-3ca9a6b1d290.png)
 
+## How to run?
+To compile use:
+```
+$ make
+```
+
+To run the program use:
+```
+$ chmod +x run.sh
+$ ./run.sh
+```
+
+To run the grader use:
+```
+$ chmod +x Grader.sh
+$ ./Grader.sh
+```
+
+*Amirhossein Abaskohi*
+
